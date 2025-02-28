@@ -20,5 +20,5 @@ NOTE: Make sure your Anacond has sckit-learn==1.2.2 (To see this, open anaconda 
 
 # python manage.py runserver 
 
-To login as patient (username: SohamBera and password=Bera@2004)  
+To login as patient (username: Soham Bera and password=Bera@2004)  
 To login as doctor (username: Bera and password=Satabdi)  
